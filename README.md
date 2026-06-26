@@ -1,4 +1,4 @@
-### Merhaba, ben Ali Faruk Bal 👋
+### Merhaba, ben Ali Faruk Bal 
 
 Bilgisayar Programcılığı öğrencisiyim ve "Backend & Full-Stack Geliştirme" alanında kendimi geliştiriyorum. Dinamik projeler üreterek, modern teknolojilerle sağlam arka plan mimarileri ve güvenli veritabanı sistemleri kurmaya odaklanıyorum.
 
